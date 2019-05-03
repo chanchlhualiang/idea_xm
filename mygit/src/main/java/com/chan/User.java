@@ -45,4 +45,7 @@ public class User {
     public void setAddress(String address) {
         this.address = address;
     }
+
+
+    /**C添加了这行的注释*/
 }
