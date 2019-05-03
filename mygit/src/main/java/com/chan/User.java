@@ -14,4 +14,6 @@ public class User {
     private String sex;
     private String address;
 
+    public User() {//hh
+    }
 }
