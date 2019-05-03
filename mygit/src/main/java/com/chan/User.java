@@ -45,4 +45,25 @@ public class User {
     public void setAddress(String address) {
         this.address = address;
     }
+
+
+    public Integer getId() {//H添加了getter方法
+        return id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public Integer getAge() {
+        return age;
+    }
+
+    public String getSex() {
+        return sex;
+    }
+
+    public String getAddress() {
+        return address;
+    }
 }
