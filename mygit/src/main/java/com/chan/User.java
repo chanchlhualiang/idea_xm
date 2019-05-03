@@ -47,6 +47,9 @@ public class User {
     }
 
 
+    /**C添加了这行的注释*/
+
+
     public Integer getId() {//H添加了getter方法
         return id;
     }
