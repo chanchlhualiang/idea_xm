@@ -16,4 +16,12 @@ public class User {
 
     public User() {//hh
     }
+
+    public User(Integer id, String name, Integer age, String sex, String address) {//C
+        this.id = id;
+        this.name = name;
+        this.age = age;
+        this.sex = sex;
+        this.address = address;
+    }
 }
