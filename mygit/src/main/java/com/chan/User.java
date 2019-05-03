@@ -24,4 +24,25 @@ public class User {
         this.sex = sex;
         this.address = address;
     }
+
+    //H添加了setter方法
+    public void setId(Integer id) {
+        this.id = id;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setAge(Integer age) {
+        this.age = age;
+    }
+
+    public void setSex(String sex) {
+        this.sex = sex;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
+    }
 }
